@@ -1,11 +1,11 @@
 {
-  "token": "YOUR_BOT_TOKEN",
-  "secret": "YOUR_BOT_SECRET",
-  "id": "YOUR_BOT_CLIENT_ID",
+  "token": "MTU0NDI2Nzk2NjIxMDc3NzA5OA.G4qkNq.8XCYzK_ATrWHkxAzU2QGt2CzWSnilKsBw9_4uA",
+  "secret": "tGdHg5cPyZHoH1KRFHMaW2MOv8JzfyDk",
+  "id": "1544267966210777098",
   "redirect": "http://127.0.0.1:8000/callback",
   "api_endpoint": "https://canary.discord.com/api/v8",
   "logs": [
-    "YOUR_WEBHOOK_LINK_1",
-    "YOUR_WEBHOOK_LINK_2"
+    "https://discord.com/api/webhooks/1535285239105060945/lQFTWHmozMWP3gq0YeW5EvJvt2ceQ0GbXqjD4jlm2GzQICMBdWVFyaFZKwU11oDeoQlR",
+    "https://discord.com/api/webhooks/1535285239105060945/lQFTWHmozMWP3gq0YeW5EvJvt2ceQ0GbXqjD4jlm2GzQICMBdWVFyaFZKwU11oDeoQlR"
   ]
 }
